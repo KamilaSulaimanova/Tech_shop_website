@@ -1,0 +1,10 @@
+
+Django==3.2
+django-environ
+django-mathfilters
+Pillow==2.2.1
+telegram-send
+celery
+redis
+psycopg2-binary==2.9.1
+gunicorn==20.1.0
